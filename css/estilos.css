@@ -1,0 +1,11 @@
+.miCarrusel{
+    max-height: 500px;
+}
+i.miInstagram{
+    color: coral;
+    font-size:60px;
+}
+
+button.btn{
+    border-radius: 0px;
+}
